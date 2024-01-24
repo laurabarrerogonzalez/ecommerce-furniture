@@ -1,0 +1,11 @@
+.banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 38rem; 
+    background-image: url('https://res.cloudinary.com/dit2zhtwz/image/upload/v1705840636/home-interior-with-armchair-decor-white-color-living-room-3d-rendering_1_g7fe5r.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    z-index: 0; 
+  }
